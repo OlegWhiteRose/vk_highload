@@ -5,7 +5,7 @@
    - [Тема](#тема)  
    - [Функционал](#функционал)  
    - [Целевая аудитория](#целевая-аудитория)  
-2. [Список использованных источников](#список-использованных-источников)
+- [Список использованных источников](#список-использованных-источников)
 
 ---
 
@@ -33,7 +33,7 @@
 
 ### Целевая аудитория
 
-[Источник](https://www.semrush.com/seo/26418995) [1]
+[Источник&nbsp;1](#источник-1)
 
 | **Метрика**                     | **Значение**  | **Динамика** | **Пояснение** |
 | ------------------------------- | ------------- | ------------ | ------------- |
@@ -47,7 +47,7 @@
 
 ### Распределение аудитории по странам
 
-[Источник](https://online.seranking.com/research.competitor.html/?input=booking.com&mode=base_domain&source=no&globalRegion=no&user_group=0&landing=website_traffic_checker&lang=en&month=2025-9) [2]
+[Источник&nbsp;2](#источник-2)
 
 | **Страна**  | **% пользователей** |
 | ----------- | ------------------ |
@@ -60,5 +60,6 @@
 ---
 
 ## Список использованных источников
-1. [SEMrush — Booking.com Website Analysis](https://www.semrush.com/seo/26418995)
-2. [SE Ranking — Website Traffic Checker](https://online.seranking.com/research.competitor.html/?input=booking.com&mode=base_domain&source=no&globalRegion=no&user_group=0&landing=website_traffic_checker&lang=en&month=2025-9)
+
+- <a id="источник-1"></a>[SEMrush — Booking.com Website Analysis](https://www.semrush.com/seo/26418995)
+- <a id="источник-2"></a>[SE Ranking — Website Traffic Checker](https://online.seranking.com/research.competitor.html/?input=booking.com&mode=base_domain&source=no&globalRegion=no&user_group=0&landing=website_traffic_checker&lang=en&month=2025-9)
