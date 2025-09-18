@@ -22,7 +22,7 @@
 - Отзывы и пользовательские оценки услуг  
 ---
 ### Целевая аудитория
-<sup>[1]</sup>
+<sup>[[1]](#1)</sup>
 | **Метрика**                     | **Значение**  | **Динамика** | **Пояснение** |
 | ------------------------------- | ------------- | ------------ | ------------- |
 | **DAU**                         | 7.5 млн       | —            | Количество ежедневных активных пользователей. |
@@ -32,7 +32,7 @@
 | **Показатель отказов**          | 38.72%        | —            | Доля пользователей, которые покидают сайт после просмотра одной страницы. Для коммерческого сервиса это хороший показатель, демонстрирующий релевантность выдачи и интерес аудитории. |
 ---
 ### Распределение аудитории по странам
-<sup>[2]</sup>
+<sup>[[2]](#2)</sup>
 | **Страна**  | **% пользователей** |
 | ----------- | ------------------ |
 | Германия    | 12.31% |
@@ -42,5 +42,5 @@
 | США         | 7.79% |
 ---
 ## Список использованных источников
-1. [SEMrush — Booking.com Website Analysis](https://www.semrush.com/seo/26418995)
-2. [SE Ranking — Website Traffic Checker](https://online.seranking.com/research.competitor.html/?input=booking.com&mode=base_domain&source=no&globalRegion=no&user_group=0&landing=website_traffic_checker&lang=en&month=2025-9)
+1. <a id="1"></a>[SEMrush — Booking.com Website Analysis](https://www.semrush.com/seo/26418995)
+2. <a id="2"></a>[SE Ranking — Website Traffic Checker](https://online.seranking.com/research.competitor.html/?input=booking.com&mode=base_domain&source=no&globalRegion=no&user_group=0&landing=website_traffic_checker&lang=en&month=2025-9)
